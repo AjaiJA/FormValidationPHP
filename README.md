@@ -1,2 +1,4 @@
 # FormValidationPHP
-Form Validation using Regular Expression in PHP
+  Existing form Validation with PHP Regular Expressions
+  # NOTE :
+    It won't deal with database
